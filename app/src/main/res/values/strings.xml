@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SACCorona</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_menu">menu</string>
+    <string-array name="departamentos">
+        <item>Ventas</item>
+        <item>Mercadotecnia</item>
+    </string-array>
+    <string name="title_activity_solicitudes_pendientes">solicitudes_pendientes</string>
+    <string name="title_activity_activity__pdv">activity_PDV</string>
+    <string name="title_activity_pdv">PDV</string>
+    <string-array name="empresas">
+
+        <item>2 - LA CORONA DEL GOLFO, S.A. DE C.V.</item>
+        <item>3 - COMERCIALIZADORA TS UNO SA DE CV</item>
+        <item>4 - MCC DE BEBIDAS SA DE CV</item>
+        <item>5 - DIBESU SA DE CV</item>
+
+    </string-array>
+    <string name="scan">Scan</string>
+    <string name="title_activity_pdv_ejecucion">PdvEjecucion</string>
+</resources>
