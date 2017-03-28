@@ -362,7 +362,7 @@ public class PDV extends AppCompatActivity  {
 
                         //if (!sEncuestas.equals("[]")) {
 
-
+                        //cambio prueba mario
                             ///PROBANDO CADENA JSON
                             RequestQueue requestQueue = Volley.newRequestQueue(PDV.this);
                             String JSON_URL_TIPOSUBENCUESTA_PUNTO = "http://www.servicioscorona.mx/SACCoronaCoatza/JSONDemo/InsertarEncuestasEjecucion";
