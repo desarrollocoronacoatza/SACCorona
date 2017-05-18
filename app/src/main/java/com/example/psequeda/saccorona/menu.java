@@ -35,6 +35,7 @@ public class menu extends AppCompatActivity {
         // android:layout_margin="@dimen/activity_horizontal_margin"
         if ((width>480) && (height>800))
         {
+            //comentado
            // ImageButton btn = (ImageButton)findViewById(R.id.btnconsultasolicitud);
            // btn.layout();
 
